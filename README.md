@@ -1,1 +1,9 @@
 # magit-test
+
+chunk1111111111111
+
+chunk2gaioghaigopeigpqewighpoeqwgewqhigoqepghoqeirgqegoiegnpqehno[peirngnqoergiqeopngoqepirngpqeingpqengqeonrg
+
+chunk3oqgnopqeignpoqeigopqeh[poqeirhg[qoehgoqerihg[qehig[qehgoehgqeiog
+
+anotherchunkqpwoeirhgo[qweighq[owihgf[qowigh[qwihg[qwohgqwigh[qowhig
